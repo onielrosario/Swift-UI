@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1001,
+    "name": "Capuccino",
+    "image": "capuccino",
+    "description": "A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam. Variations of the drink involve the use of cream instead of milk, and flavoring with cinnamon or chocolate powder.",
+    "category": "hot"
+  },
+  {
+    "id": 1002,
+    "name": "Coffee",
+    "image": "coffee",
+    "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.",
+     "category": "hot"
+  },
+  {
+    "id": 1003,
+    "name": "Latte",
+    "image": "latte",
+    "description": "A latte is a coffee drink made with espresso and steamed milk. The term as used in English is a shortened form of the Italian caffè e latte, caffelatte or caffellatte, which means 'milk coffee'.",
+     "category": "hot"
+  },
+  {
+    "id": 1004,
+    "name": "Iced Capuccino",
+    "image": "icedcap",
+    "description": "With less milk than a latte, Iced Cappuccino offers a stronger espresso flavor, a luxurious texture and a velvety, frothy foam with a crisp, cool undercurrent.",
+     "category": "cold"
+  },
+  {
+    "id": 1005,
+    "name": "Cold Brew",
+    "image": "coldBrew",
+    "description": "Cold-brew coffee, however, is made by steeping coarsely ground coffee beans in room-temperature water for six to 12 hours. This creates a coffee concentrate you mix with cold water or milk.",
+     "category": "cold"
+  },
+  {
+    "id": 1006,
+    "name": "Espresso",
+    "image": "espresso",
+    "description": "Espresso is coffee of Italian origin, brewed by forcing a small amount of nearly boiling water under pressure through finely ground coffee beans. Espresso is generally thicker than coffee brewed by other methods, has a higher concentration of suspended and dissolved solids, and has crema on top.",
+     "category": "hot"
+  }
+]
